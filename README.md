@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I am a Front-End Developer who loves making people's interactions with technology easier and enjoyable.<br>📚 I'm  currently learning full-stack dev<br>🎲 I am designing the interface with figma and continuing to research ux articles.</p>
+<p align="left">✨ I am a Front-End Developer who loves making people's interactions with technology easier and enjoyable.<br>📚 I continue to learn and improve with practices<br>🎲 I am designing the interface with figma and continuing to research ux articles.</p>
 
 ###
 
